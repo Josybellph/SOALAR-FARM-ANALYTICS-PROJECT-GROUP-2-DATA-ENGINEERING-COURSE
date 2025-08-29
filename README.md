@@ -11,3 +11,4 @@ Deliverables:
 a) Solar generation vs consumption chart. 
 b) Efficiency % over time. 
 c) Battery charge/discharge cycles.
+Group 2 Energy Farm Project Workflow from ETL to Grafana Dashboard
